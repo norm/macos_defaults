@@ -1,0 +1,21 @@
+# orange highlights
+AppleHighlightColor -string "1.000000 0.874510 0.701961"
+
+# jump to where I've clicked
+AppleScrollerPagingBehavior -int 1
+
+# full keyboard access
+AppleKeyboardUIMode -int 3
+
+# save to disk by default
+NSDocumentSaveNewDocumentsToCloud -bool false
+
+# expanded panels
+NSNavPanelExpandedStateForSaveMode -bool true
+PMPrintingExpandedStateForPrint -bool true
+
+# function keys as function keys
+com.apple.keyboard.fnState -int 1
+
+# tap to click
+com.apple.mouse.tapBehavior -int 1

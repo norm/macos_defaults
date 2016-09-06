@@ -1,0 +1,26 @@
+# don't be silly
+AutoOpenSafeDownloads -bool false
+PreloadTopHit -bool false
+ShowFullURLInSmartSearchField -bool true
+ShowStatusBar -bool true
+ShowFavoritesBar -bool true
+DownloadsClearingPolicy -int 0
+
+# je suis un dev
+IncludeDevelopMenu -bool true
+WebKitDeveloperExtrasEnabledPreferenceKey -bool true
+WebKitDeveloperExtras -bool true
+
+# better finding
+FindOnPageMatchesWordStartsOnly -bool false
+
+# <3 keyboard
+WebKitTabToLinksPreferenceKey -bool true
+com.apple.Safari.ContentPageGroupIdentifier.WebKit2TabsToLinks -int 1
+Command1Through9SwitchesTabs -int 0
+
+# ugh autofill
+AutoFillFromAddressBook -bool false
+AutoFillPasswords -bool false
+AutoFillCreditCardData -bool false
+AutoFillMiscellaneousForms -bool false

@@ -1,0 +1,26 @@
+# automatically hide the dock
+autohide -bool true
+
+# big icons
+tilesize -int 128
+
+# more interesting minimise animation
+mineffect suck
+
+
+# hot corners values:
+# 0     nothing
+# 2     mission control
+# 3     show application windows
+# 4     show desktop
+# 5     start screensaver
+# 6     disable screensaver
+# 7     show dashboard
+# 10    put display to sleep
+# 11    show launchpad
+
+# bottom-left is sleep display
+wvous-bl-corner -int 10
+wvous-br-modifier -int 0
+
+KILL Dock

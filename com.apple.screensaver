@@ -1,0 +1,3 @@
+# locking screensaver
+askForPassword -int 1
+askForPasswordDelay -int 5
