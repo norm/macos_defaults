@@ -5,6 +5,7 @@ ShowFullURLInSmartSearchField -bool true
 ShowStatusBar -bool true
 ShowFavoritesBar -bool true
 DownloadsClearingPolicy -int 0
+AlwaysShowTabBar -int 1
 
 # je suis un dev
 IncludeDevelopMenu -bool true
