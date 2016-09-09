@@ -1,0 +1,26 @@
+MyWiCheckForUpdates -string YES
+MyWiEnabled -string YES
+
+MyWiMoveKey -int 116;
+MyWiMoveModifiers -int 8388864;
+MyWiResizeLeftUpKey -int 115;
+MyWiResizeLeftUpModifiers -int 8388864;
+MyWiResizeRightDownKey -int 119;
+MyWiResizeRightDownModifiers -int 8388864;
+
+MyWiModifierCommand -string "-1"
+MyWiModifierNone -int 100
+MyWiModifierOption -int 10
+MyWiModifierShift -int 1
+count -int 2
+
+# sizes for the 27" display (2560x1440)
+MyWiFavoritesCharacters -dict-add 0   '{ height = 1413; left = 1988; top = 23; width = 570;  }'
+MyWiFavoritesCharacters -dict-add 1   '{ height = 1413; left = 0;    top = 23; width = 1024; }'
+MyWiFavoritesCharacters -dict-add 2   '{ height = 1413; left = 1026; top = 23; width = 960;  }'
+MyWiFavoritesCharacters -dict-add 3   '{ height = 1413; left = 0;    top = 23; width = 1986; }'
+MyWiFavoritesCharacters -dict-add £   '{ height = 1413; left = 0;    top = 23; width = 1414; }'
+MyWiFavoritesCharacters -dict-add 4   '{ height = 1413; left = 1026; top = 23; width = 1534; }'
+MyWiFavoritesCharacters -dict-add 9   '{ height = 1413; left = 1416; top = 23; width = 570;  }'
+MyWiFavoritesCharacters -dict-add '!' '{ height = 1413; left = 0;    top = 23; width = 1279; }'
+MyWiFavoritesCharacters -dict-add "'\\\"'" '{ height = 1413; left = 1281; top = 23; width = 1279; }'
