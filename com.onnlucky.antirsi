@@ -1,0 +1,6 @@
+haveRunBefore -int 1
+launchAtStartup -int 1
+lockFocus -int 1
+miniDuration -int 30
+miniPeriod "5.0"
+workDuration "10.0"
